@@ -22,8 +22,7 @@
   /* Primary Colors */
   --accent: 3, 102, 214;
   --link-colour: 48, 144, 255;
-  --font-family: Jetbrains Mono;
-  --chat-font-size: 16px;
+  --chat-font-size: 14px;
 
   /* Server List */
   --server-icon-size: 35px;
