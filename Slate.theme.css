@@ -33,4 +33,6 @@
   Place any Theme-specific Custom CSS Below here
 */
 
-font-size:  20px;
+.chat {
+  font-size: 20px;
+}
