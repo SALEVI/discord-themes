@@ -22,6 +22,10 @@
   /* Primary Colors */
   --accent: 3, 102, 214;
   --link-colour: 48, 144, 255;
+  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+  	"Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+  --font-family-monospace: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  --chat-font-size: 16px;
 
   /* Server List */
   --server-icon-size: 35px;
@@ -32,4 +36,3 @@
 /*
   Place any Theme-specific Custom CSS Below here
 */
- --chat-font-size: 18px;
