@@ -22,7 +22,6 @@
   /* Primary Colors */
   --accent: 3, 102, 214;
   --link-colour: 48, 144, 255;
-  --chat-font-size: 26px;
 
   /* Server List */
   --server-icon-size: 35px;
@@ -33,4 +32,4 @@
 /*
   Place any Theme-specific Custom CSS Below here
 */
---chat-font-size: 26px;
+ --chat-font-size: 18px;
